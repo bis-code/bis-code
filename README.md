@@ -1,11 +1,17 @@
 ### Hi there 👋
 ![Profile views](https://komarev.com/ghpvc/?username=BaicoianuIoanSorin)
+
+- 🌱 I’m currently learning Software Technology Engineering, at VIA University College, being in the 7th Semester and working on bachelor thesis.
+- 🔭 I’m currently working as Student Assistant at Schneider Electric, Kolding, Denmark.
+- 📫 How to reach me:
+  1. ![LinkedIn](https://www.linkedin.com/in/baicoianu-ioan-sorin-7a452a1b2/)
+  2. ![Email](baicoianuioansorin@gmail.com)
 <!--
 **BaicoianuIoanSorin/BaicoianuIoanSorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
