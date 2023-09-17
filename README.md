@@ -58,7 +58,7 @@
 
 <p align="center">
 <!--   My website profile *Coming soon* -->
-<a href="https://www.linkedin.com/in/baicoianu-ioan-sorin-7a452a1b2/"><img src="https://img.shields.io/badge/-Baicoianu%20Ioan-Sorin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/baicoianu-ioan-sorin-7a452a1b2/"><img src="https://img.shields.io/badge/-Baicoianu%20Ioan%20Sorin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:baicoianuioansorin@gmail.com"><img src="https://img.shields.io/badge/-baicoianuioansorin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ionut.bis"><img src="https://img.shields.io/badge/-@ionut.bis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
