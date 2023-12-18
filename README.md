@@ -14,6 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 #### ⚡ &nbsp;Backend
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Spring Boot Framework](https://img.shields.io/badge/-Spring%20Boot%20Framework-05122A?style=flat&logo=springboot)&nbsp;
 ![Cassandra](https://img.shields.io/badge/-Cassandra-05122A?style=flat&logo=apachecassandra)&nbsp;
