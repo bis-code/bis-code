@@ -4,7 +4,7 @@
 
 🔭 &nbsp;I am currently working at ![Schneider Electric](https://img.shields.io/badge/-Schneider%20Electric-05122A?style=flat&logo=schneiderelectric)&nbsp; as Junior Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Technology Engineerning at the VIA University College in Horsens, Denmark.\
+🎓 &nbsp;Studied Software Technology Engineerning at the VIA University College in Horsens, Denmark.\
 ✍️ &nbsp;In my free time, I am expanding my knowledges by trying new technologies and creating new personal projects.\
 ✉️ &nbsp;You can shoot me an email at baicoianuioansorin@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.myresume.com) for more details about me. I'm open to feedback and suggestions! -->
