@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp;I am currently working at ![Schneider Electric](https://img.shields.io/badge/-Schneider%20Electric-05122A?style=flat&logo=schneiderelectric)&nbsp; as Software Student Assistant, Full-Stack developer.\
+🔭 &nbsp;I am currently working at ![Schneider Electric](https://img.shields.io/badge/-Schneider%20Electric-05122A?style=flat&logo=schneiderelectric)&nbsp; as Junior Backend Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Technology Engineerning at the VIA University College in Horsens, Denmark.\
 ✍️ &nbsp;In my free time, I am expanding my knowledges by trying new technologies and creating new personal projects.\
