@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp;I am currently working at ![Schneider Electric](https://img.shields.io/badge/-Schneider%20Electric-05122A?style=flat&logo=schneiderelectric)&nbsp; as Junior Backend Developer.\
+🔭 &nbsp;I am currently working at ![Schneider Electric](https://img.shields.io/badge/-Schneider%20Electric-05122A?style=flat&logo=schneiderelectric)&nbsp; as Software Design Engineer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Studied Software Technology Engineerning at the VIA University College in Horsens, Denmark.\
 ✍️ &nbsp;In my free time, I am expanding my knowledges by trying new technologies and creating new personal projects.\
@@ -37,6 +37,9 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Azure Portal](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azureportal)&nbsp;
+![Blackduck](https://img.shields.io/badge/-Blackduck-05122A?style=flat&logo=blackduck)&nbsp;
 
 #### ⚡ &nbsp;IDEAs
 ![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellijidea)&nbsp;
