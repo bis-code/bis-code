@@ -50,8 +50,8 @@
 
 <p align="center">
 <a href="https://github.com/BaicoianuIoanSorin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BaicoianuIoanSorin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BaicoianuIoanSorin&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bis-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bis-code&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
