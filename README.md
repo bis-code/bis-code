@@ -1,14 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ioan</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-🔭 &nbsp;I am currently working at ![Schneider Electric](https://img.shields.io/badge/-Schneider%20Electric-05122A?style=flat&logo=schneiderelectric)&nbsp; as Software Design Engineer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Studied Software Technology Engineerning at the VIA University College in Horsens, Denmark.\
-✍️ &nbsp;In my free time, I am expanding my knowledges by trying new technologies and creating new personal projects.\
-✉️ &nbsp;You can shoot me an email at baicoianuioansorin@gmail.com! I'll try to respond as soon as I can.\
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.myresume.com) for more details about me. I'm open to feedback and suggestions! -->
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
